@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  MainScreenView.swift
 //  Challenger
 //
 //  Created by Admin on 05.09.2022.
