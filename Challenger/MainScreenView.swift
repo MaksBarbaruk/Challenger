@@ -11,7 +11,7 @@ struct MainScreenView: View {
     var body: some View {
         Text("Hello, world!")
             .padding(100)
-            .background(.tertiary)
+            .background(Color.theme.secondaryText)
     }
 }
 
